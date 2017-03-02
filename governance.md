@@ -6,6 +6,16 @@ section below, is contained in The Project Governance Repository at:
 
 [https://github.com/Open DataCube/governance](https://github.com/Open DataCube/governance)
 
+
+Issues for consideration
+===========
+Copyright
+- should consider having copyright reassigned to an entity (this will allow for the community to later change the open source licenincing etc.)
+- if you have IP that isn't open or you don't want to reassign the copyright then it shouldn't be put into this repository
+- TerriaJS has a bot that allows for this to be done automatically
+
+
+
 The Project
 ===========
 
